@@ -2,9 +2,9 @@
 
 A short list of high-quality online R books.
 
-01. Advanced R, by Hadley Wickham: https://adv-r.hadley.nz/
+01. Advanced R (2nd Ed.), by Hadley Wickham: https://adv-r.hadley.nz/
 
-A book for R users who want to improve their programming skills, covering concepts such as functional and object-oriented programming, debugging, profiling, etc.
+I often go to this resource when I need to go deeper into a topic related to R programming (data structures, control flow, environments, functional programming, object-oriented programming, debugging, profiling, etc.) 
 
 02. Advanced R Solutions, by Malte Grosser, Henning Bumann, and Hadley Wickham: https://advanced-r-solutions.rbind.io/
 
