@@ -8,7 +8,7 @@ I often go to this resource when I need to go deeper into a topic related to R p
 
 02. Advanced R Solutions, by Malte Grosser, Henning Bumann, and Hadley Wickham: https://advanced-r-solutions.rbind.io/
 
-The book provides solutions to the exercises from the "Advanced R" book.
+The book provides solutions to the exercises from Hadley Wickham's "Advanced R" book. It's rather uninteresting as a standalone reference, but it's great for self-learning, as a valuable companion to "Advanced R".
 
 03. An Introduction to R, by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, and David Lusseau: https://intro2r.com/
 
