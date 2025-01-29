@@ -16,7 +16,7 @@ A truly introductory book; you can start here and learn a little bit about all t
 
 04. Applied Machine Learning Using mlr3 in R, by Bernd Bischl, Raphael Sonabend, Lars Kotthoff, and Michel Lang: https://mlr3book.mlr-org.com/
 
-A guide to the mlr3 ecosystem which provides a generic, object-oriented, and extensible framework for regression, classification, and other machine learning tasks.
+This is the online version of the print book with the same title, which is about 350 pages long. The mlr3 ecosystem "provides a generic, object-oriented, and extensible framework for regression, classification, and other machine learning tasks". In general, mlr3 is more advanced than tidymodels.
 
 05. Deep R Programming, by Marek Gagolewski: https://deepr.gagolewski.com/
 
