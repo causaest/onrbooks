@@ -12,7 +12,7 @@ The book provides solutions to the exercises from Hadley Wickham's "Advanced R" 
 
 03. An Introduction to R, by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, and David Lusseau: https://intro2r.com/
 
-A book that provides the basic skills and experience in using R, including data wrangling, graphics, simple statistics, programming, R markdown, and Git.
+A truly introductory book; you can start here and learn a little bit about all the R basics. I don't really end up here quite often when searching for a resource, but I really like the two chapters at the end, "Reproducible reports with R markdown" and "Version control with Git and GitHub", which are short but very practical. The rest of the book covers the basics about data wrangling, graphics, simple statistics, programming; the usual stuff.
 
 04. Applied Machine Learning Using mlr3 in R, by Bernd Bischl, Raphael Sonabend, Lars Kotthoff, and Michel Lang: https://mlr3book.mlr-org.com/
 
