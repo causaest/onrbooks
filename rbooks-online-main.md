@@ -20,7 +20,7 @@ This is the online version of the print book with the same title, which is about
 
 05. Deep R Programming, by Marek Gagolewski: https://deepr.gagolewski.com/
 
-A comprehensive and in-depth resource about data structures, functions, classes, environments, and other concepts.
+This book could be seen as a rival (or a complement, depending on the attitude) of Hadley Wickham's Advanced R. Extra point here because there is a download option for a beautifully typesetted PDF version; however, the paper version is very cheap. Content-wise, it's a comprehensive and in-depth resource about data structures, functions, classes, environments, and other programming concepts, quite suitable as a self learning resource.
 
 06. Efficient R programming, by Colin Gillespie and Robin Lovelace: https://csgillespie.github.io/efficientR/
 
