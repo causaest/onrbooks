@@ -24,7 +24,7 @@ This book could be seen as a rival (or a complement, depending on the attitude) 
 
 06. Efficient R programming, by Colin Gillespie and Robin Lovelace: https://csgillespie.github.io/efficientR/
 
-A book about computational efficiency, vectorised code, profiling, and other topics in efficient programming.
+Although this book has'nt been updated over the last few years, it's quite unique in the areas of computational efficiency, vectorised code, profiling, and other topics in efficient R programming. The "Efficient Workflow" chapter is a great read.
 
 07. Forecasting: Principles and Practice (2nd Ed.), by Rob J. Hyndman and George Athanasopoulos: https://otexts.com/fpp2/
 
