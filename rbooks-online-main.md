@@ -28,7 +28,7 @@ Although this book has'nt been updated over the last few years, it's quite uniqu
 
 07. Forecasting: Principles and Practice (2nd Ed.), by Rob J. Hyndman and George Athanasopoulos: https://otexts.com/fpp2/
 
-The second edition of the book, which uses the forecast package. A comprehensive introduction to forecasting methods such as time series, decomposition, exponential smoothing, ARIMA, etc.
+The second edition of *Forecasting: Principles & Practice*, which uses the forecast package. This book is a comprehensive introduction to time series forecasting methods, decomposition, exponential smoothing, ARIMA, etc.
 
 08. Forecasting: Principles and Practice (3rd Ed.), by Rob J. Hyndman and George Athanasopoulos: https://otexts.com/fpp3/
 
