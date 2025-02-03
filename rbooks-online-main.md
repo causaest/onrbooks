@@ -1,6 +1,6 @@
-# Online R books
+# Online R books --- Main
 
-A short list of high-quality online R books.
+A short list of online R books I often use.
 
 01. Advanced R (2nd Ed.), by Hadley Wickham: https://adv-r.hadley.nz/
 
