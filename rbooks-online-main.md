@@ -32,15 +32,15 @@ The second edition of *Forecasting: Principles & Practice*, which uses the forec
 
 08. Forecasting: Principles and Practice (3rd Ed.), by Rob J. Hyndman and George Athanasopoulos: https://otexts.com/fpp3/
 
-The third edition of the book, which uses the fpp3 package, which includes packages to handle time series and forecasting in a tidy framework.
+The third edition of *Forecasting: Principles & Practice*, which uses the fpp3 package and other packages that handle time series and forecasting in a tidy framework.
 
 09. ggplot2: Elegant Graphics for Data Analysis (3rd Ed.), by Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen: https://ggplot2-book.org/
 
-A book introducing ggplot2 and the Grammar of Graphics.
+The standard resource for ggplot2 and the Grammar of Graphics, which helps understand the ggplot2 concepts and the underlying theory.
 
 10. Hands-On Machine Learning with R, by Bradley Boehmke and Brandon Greenwell: https://bradleyboehmke.github.io/HOML/
 
-An introduction to the most common machine learning methods, using the caret package.
+An introduction to the most common machine learning concepts and methods. The book hasn't been updated since 2020 and is still based on the caret package, which is currently in maintenance mode. I'm searching for a more up-to-date alternative.
 
 11. Hands-On Programming with R, by Garrett Grolemund: https://rstudio-education.github.io/hopr/
 
