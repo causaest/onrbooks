@@ -12,4 +12,8 @@ An R companion to the textbook "Introduction to Econometrics" by James H. Stock 
 
 Reproducible finance with R, the "tidyverse" way. The book is only for quants or analysts dealing with financial data.
 
+03. Building reproducible analytical pipelines with by Bruno Rodrigues: https://raps-with-r.dev/
+
+This book brings best practices from software engineering and DevOps to R programming.
+
 ## Outdated Books

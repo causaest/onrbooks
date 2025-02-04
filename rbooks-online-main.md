@@ -44,15 +44,15 @@ An introduction to the most common machine learning concepts and methods. The bo
 
 11. Hands-On Programming with R, by Garrett Grolemund: https://rstudio-education.github.io/hopr/
 
-An introduction for non-programmers to the R language, data objects, functions, classes, and other programming tools.
+An introduction for non-programmers to the R language, covering topics such as R objects, functions, classes. The GitHub repo hasn't been updated since 2019, while the print version dates back to 2014. 
 
 12. Mastering Shiny, by Hadley Wickham: https://mastering-shiny.org/
 
-A book for learning Shiny, a framework for creating web applications using R, providing a deep understanding of reactive programming.
+The best resource for learning Shiny and best practices around developing Shiny apps, providing a deep understanding of reactive programming.
 
-13. Mastering Shiny Solutions, by Maya Gans and Marly Gotti: https://mastering-shiny-solutions.netlify.app/
+13. Mastering Shiny Solutions, by Howard Baek: https://mastering-shiny-solutions.netlify.app/
 
-A solutions manual for the exercises in the "Mastering Shiny" book.
+Solutions manual for the exercises in the "Mastering Shiny" book. This book serves as an updated version of "Mastering Shiny Solutions" by Maya Gans and Marly Gotti, released in 2021.
 
 14. Modern Data Visualization with R, by Robert Kabacoff: https://rkabacoff.github.io/datavis/
 
