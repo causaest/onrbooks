@@ -56,11 +56,11 @@ Solutions manual for the exercises in the "Mastering Shiny" book. This book serv
 
 14. Modern Data Visualization with R, by Robert Kabacoff: https://rkabacoff.github.io/datavis/
 
-A comprehensive overview of data visualization using ggplot2.
+An overview of the most popular data visualization using ggplot2. It's much more user-friendly compared to "ggplot2: Elegant Graphics for Data Analysis", so it's a great learning resource. The print book is 272 pages long.
 
 15. Modern Statistics with R: From wrangling and exploring data to inference and predictive modelling, by Måns Thulin: https://modernstatisticswithr.com/
 
-A book that introduces key parts of the modern statistical toolkit such as data wrangling, exploratory data analysis, statistical inference, predictive modelling, simulation, ethics in statistics, and R programming.
+The online version of the second edition of "Modern Statistics with R". It introduces key parts of the modern statistical toolkit such as statistical inference, exploratory data analysis, dealing with messy data, simulation, regression, survival analysis, structural equation models, predictive modelling, with a little bit of R programming.
 
 16. R for Data Science (2nd Ed.), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund: https://r4ds.hadley.nz/
 
