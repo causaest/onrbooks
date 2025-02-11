@@ -1,6 +1,6 @@
-# Online R books --- Main
+# Online R books - Main
 
-A short list of online R books I often use.
+A short list of online R books I use often.
 
 01. Advanced R (2nd Ed.), by Hadley Wickham: https://adv-r.hadley.nz/
 
@@ -64,11 +64,11 @@ The online version of the second edition of "Modern Statistics with R". It intro
 
 16. R for Data Science (2nd Ed.), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund: https://r4ds.hadley.nz/
 
-A book that teaches how to get data into R, get it into the most useful structure, transform it and visualize, including concepts such as the grammar of graphics, literate programming, and reproducible research.
+I would call this book "R for Analytics" and I would recommend it to any R beginner. It has a rather distinct and pedagogical structure, starting with visualization and transformation of data. Then, it goes into data importing and tidying. Moreover, it's quite comprehensive and actively developed. The only issue is that it takes the reader directly into the tidyverse, so base R is only partially covered.
 
 17. R Graphics Cookbook (2nd Ed.), by Winston Chang: https://r-graphics.org/
 
-A practical guide that provides more than 150 recipes to help generate high-quality graphs quickly using ggplot2.
+A practical guide that provides more than 150 recipes to help generate high-quality graphs quickly using base R and ggplot2. I'm not a huge fan of cookbooks myself, but this book can serve as a useful reference.
 
 18. R Markdown Cookbook, by Yihui Xie, Christophe Dervieux, and Emily Riederer: https://bookdown.org/yihui/rmarkdown-cookbook/
 

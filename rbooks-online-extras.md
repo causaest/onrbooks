@@ -1,4 +1,4 @@
-# Online R books --- Extras
+# Online R books - Extras
 
 A list of extra online R books.
 
@@ -17,3 +17,7 @@ Reproducible finance with R, the "tidyverse" way. The book is only for quants or
 This book brings best practices from software engineering and DevOps to R programming.
 
 ## Outdated Books
+
+01. Bayes Rules! An Introduction to Applied Bayesian Modeling, by Alicia A. Johnson, Miles Q. Ott, Mine Dogucu: https://www.bayesrulesbook.com/
+
+Bayesian modeling in R, not updated since 2021.
