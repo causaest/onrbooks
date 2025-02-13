@@ -2,6 +2,12 @@
 
 A list of extra online R books.
 
+## General R books
+
+01. What They Forgot to Teach You About R: The stuff you need to know about R, besides data analysis, by Jennifer Bryan, Jim Hester, Shannon Pileggi, E. David Aja: https://rstats.wtf/
+
+A short book that addresses common sources of friction in data analysis when using R and RStudio.
+
 ## Specialised Books
 
 01. Introduction to Econometrics with R, by Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer: https://www.econometrics-with-r.org/

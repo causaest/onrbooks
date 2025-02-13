@@ -72,15 +72,15 @@ A practical guide that provides more than 150 recipes to help generate high-qual
 
 18. R Markdown Cookbook, by Yihui Xie, Christophe Dervieux, and Emily Riederer: https://bookdown.org/yihui/rmarkdown-cookbook/
 
-A book that provides practical and relatively short examples to show the interesting and useful usage of R Markdown.
+This book was created by drawing together popular posts from Stack Overflow and other online resources (such as blog posts or tutorials) to provide up-to-date solutions for everyday queries that users commonly make about the usage of R Markdown. It provides practical and relatively short examples, divided into topics for easier navigation. A gem.
 
 19. R Markdown: The Definitive Guide, by Yihui Xie, Joseph J. Allaire, and Garrett Grolemund: https://bookdown.org/yihui/rmarkdown/
 
-A book that serves as a reference book about R Markdown.
+This book serves as a reference book about R Markdown, with lost of technical details. The "How to read this book" section is one of the best I've read.
 
 20. R Packages (2nd Ed.), by Hadley Wickham and Jennifer Bryan: https://r-pkgs.org/
 
-A book that teaches how to create an R package, the fundamental unit of shareable, reusable, and reproducible R code.
+A book that teaches how to create an R package, "the fundamental unit of shareable, reusable, and reproducible R code". The first chapter runs through the development of a small toy package, which is a great idea; however, this toy package is a rather dull example.
 
 21. Statistical Inference via Data Science: A ModernDive into R and the Tidyverse, by Chester Ismay and Albert Y. Kim: https://moderndive.com/
 
