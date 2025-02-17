@@ -26,6 +26,10 @@ A collection of pretty much every R book you can find online, indexed by topic.
 
 ### Machine Learning
 
+01. Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn, Kjell Johnson: https://bookdown.org/max/FES/
+
+An excellent book about feature engineering, sadly unmaintained.
+
 ### Specialized Applications
 
 01. Introduction to Econometrics with R, by Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer: https://www.econometrics-with-r.org/
