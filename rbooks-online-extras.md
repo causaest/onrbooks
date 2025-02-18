@@ -51,3 +51,7 @@ Bayesian modeling in R, not updated since 2021.
 05. Engineering Production-Grade Shiny Apps, by Colin Fay, Sébastien Rochette, Vincent Guyader, Cervan Girard: https://engineering-shiny.org/
 
 The book discusses the process of building Shiny applications for production. It's built around the package golem, a toolkit for simplifying the creation, development and deployment of Shiny apps. Only for Shiny professionals.
+
+06. Let's Git started, by Jennifer Bryan: https://happygitwithr.com/
+
+Covers key workflows to integrate Git and GitHub into daily work with R and R Markdown.
