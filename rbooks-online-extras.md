@@ -55,3 +55,7 @@ The book discusses the process of building Shiny applications for production. It
 06. Let's Git started, by Jennifer Bryan: https://happygitwithr.com/
 
 Covers key workflows to integrate Git and GitHub into daily work with R and R Markdown.
+
+07. Surrogates: Gaussian process modeling, design and optimization for the applied sciences, by Robert B. Gramacy: https://bookdown.org/rbg/surrogates/
+
+In statistics, predictive equations derived from a fitted model can act as a surrogate (a substitute) for the data-generating mechanism. Gathering data is expensive, and sometimes getting exactly the data you want is impossible or unethical; a surrogate could represent a much cheaper way to explore relationships, and entertain “what ifs?”.
