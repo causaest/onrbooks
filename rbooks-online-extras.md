@@ -58,4 +58,8 @@ Covers key workflows to integrate Git and GitHub into daily work with R and R Ma
 
 07. Surrogates: Gaussian process modeling, design and optimization for the applied sciences, by Robert B. Gramacy: https://bookdown.org/rbg/surrogates/
 
-In statistics, predictive equations derived from a fitted model can act as a surrogate (a substitute) for the data-generating mechanism. Gathering data is expensive, and sometimes getting exactly the data you want is impossible or unethical; a surrogate could represent a much cheaper way to explore relationships, and entertain “what ifs?”.
+In statistics, predictive equations derived from a fitted model can act as a surrogate (a substitute) for the data-generating mechanism. Gathering data is expensive, and sometimes getting exactly the data you want is impossible or unethical; a surrogate could represent a much cheaper way to explore relationships, and entertain "what ifs?".
+
+08. Flexible Imputation of Missing Data, by Stef van Buuren: https://stefvanbuuren.name/fimd/
+
+The best online resource on missing data imputation, focusing more on multiple imputation approaches. Not updated since 2018: https://github.com/stefvanbuuren/fimdbook.
