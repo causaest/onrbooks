@@ -22,6 +22,10 @@ A collection of pretty much every R book you can find online, indexed by topic.
 
 ### Data Visualization and Graphics
 
+01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
+
+A book focusing on plotly, with some tidyverse and shiny bits. The physican book was published in early 2020 and since then, no updates were made.
+
 ### Advanced R Programming
 
 ### Machine Learning
@@ -63,3 +67,8 @@ In statistics, predictive equations derived from a fitted model can act as a sur
 08. Flexible Imputation of Missing Data, by Stef van Buuren: https://stefvanbuuren.name/fimd/
 
 The best online resource on missing data imputation, focusing more on multiple imputation approaches. Not updated since 2018: https://github.com/stefvanbuuren/fimdbook.
+
+09. An Introduction to Text Processing and Analysis with R, by Michael Clark: https://m-clark.github.io/text-analysis-with-R/
+
+A workshop about text analysis in R. Not updated since 2018: https://github.com/m-clark/text-analysis-with-R.
+
