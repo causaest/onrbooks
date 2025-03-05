@@ -20,6 +20,10 @@ Extensive book about data wrangling, stats, machine learning, Git, Docker. Pytho
 
 A collection of pretty much every R book you can find online, indexed by topic.
 
+05. Introduction to Programming with R, by Reto Stauffer, Joanna Chimiak-Opoka, Luis Miguel Rodríguez-Rojas, Thorsten Simon, Achim Zeileis: https://discdown.org/rprogramming/
+
+A learning resource for programming novices who want to learn R. Very well written and actively updated.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
