@@ -24,6 +24,10 @@ A collection of pretty much every R book you can find online, indexed by topic.
 
 A learning resource for programming novices who want to learn R. Very well written and actively updated.
 
+06. Learning statistics with R: A tutorial for psychology students and other beginners, by Danielle Navarro: https://learningstatisticswithr.com/book/
+
+Covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students. Not updated since 2019.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
