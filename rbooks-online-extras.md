@@ -36,6 +36,10 @@ A book focusing on plotly, with some tidyverse and shiny bits. The physican book
 
 ### Advanced R Programming
 
+01. Mastering Software Development in R, by Roger D. Peng, Sean Kross, Brooke Anderson: https://bookdown.org/rdpeng/RProgDA/
+
+The book covers R software development for building data science tools. GitHub repo at https://github.com/rdpeng/rprogdatascience.
+
 ### Machine Learning
 
 01. Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn, Kjell Johnson: https://bookdown.org/max/FES/
@@ -80,3 +84,6 @@ The best online resource on missing data imputation, focusing more on multiple i
 
 A workshop about text analysis in R. Not updated since 2018: https://github.com/m-clark/text-analysis-with-R.
 
+10. Mastering Spark with R, by Javier Luraschi, Kevin Kuo, Edgar Ruiz: https://therinspark.com/
+
+A book for learning how to use Apache Spark with R. Last updated in 2020: https://github.com/r-spark/the-r-in-spark.
