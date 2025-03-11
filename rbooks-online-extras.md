@@ -91,3 +91,7 @@ A workshop about text analysis in R. Not updated since 2018: https://github.com/
 10. Mastering Spark with R, by Javier Luraschi, Kevin Kuo, Edgar Ruiz: https://therinspark.com/
 
 A book for learning how to use Apache Spark with R. Last updated in 2020: https://github.com/r-spark/the-r-in-spark.
+
+11. Outstanding User Interfaces with Shiny, by David Granjon: https://unleash-shiny.rinterface.com/
+
+A book for experienced Shiny users you want to learn more about the underlying web technologies and apps custimisation. It was published by CRC Press in 2022 https://www.routledge.com/Outstanding-User-Interfaces-with-Shiny/Granjon/p/book/9780367643652. Still receives updates.
