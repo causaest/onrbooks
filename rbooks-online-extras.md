@@ -28,6 +28,10 @@ A learning resource for programming novices who want to learn R. Very well writt
 
 Covers the contents of an introductory statistics class, as typically taught to undergraduate psychology students. Not updated since 2019.
 
+07. Modern R with the tidyverse, by Bruno Rodrigues: https://modern-rstats.eu/
+
+Topics include RStudio, classes and types, descriptive stats and data manipulation, graphs, regression, functions, functional programming, package development. It has an unfinished aura, and a 2.0 version is in the making.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
