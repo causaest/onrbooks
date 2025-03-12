@@ -32,6 +32,10 @@ Covers the contents of an introductory statistics class, as typically taught to 
 
 Topics include RStudio, classes and types, descriptive stats and data manipulation, graphs, regression, functions, functional programming, package development. It has an unfinished aura, and a 2.0 version is in the making.
 
+08. R for Data Analysis, by Trevor French: https://trevorfrench.github.io/R-for-Data-Analysis/
+
+Yet another introduction to data analytics with R. 
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -95,3 +99,7 @@ A book for learning how to use Apache Spark with R. Last updated in 2020: https:
 11. Outstanding User Interfaces with Shiny, by David Granjon: https://unleash-shiny.rinterface.com/
 
 A book for experienced Shiny users you want to learn more about the underlying web technologies and apps custimisation. It was published by CRC Press in 2022 https://www.routledge.com/Outstanding-User-Interfaces-with-Shiny/Granjon/p/book/9780367643652. Still receives updates.
+
+12. Psychometrics in Exercises using R and RStudio: Textbook and data resource, by Anna Brown: https://bookdown.org/annabrown/psychometricsR/
+
+A textbook book on Psychometric techniques using R, with exercises based on real data (that can be dowloaded from https://annabrown.name/psychometricsR/).
