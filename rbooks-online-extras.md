@@ -36,6 +36,10 @@ Topics include RStudio, classes and types, descriptive stats and data manipulati
 
 Yet another introduction to data analytics with R. 
 
+09. R for the Rest of Us: A Statistics-Free Introduction, by David Keyes: https://book.rfortherestofus.com/
+
+How to create informative visualizations, streamline report generation, and develop interactive websites, without the need to knnow R or complex math.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -53,6 +57,10 @@ The book covers R software development for building data science tools. GitHub r
 01. Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn, Kjell Johnson: https://bookdown.org/max/FES/
 
 An excellent book about feature engineering, sadly unmaintained.
+
+02. The caret Package, by Max Kuhn: https://topepo.github.io/caret/
+
+An extensive (and unmaintained) book about the (now obsolete) caret package.
 
 ### Specialized Applications
 
