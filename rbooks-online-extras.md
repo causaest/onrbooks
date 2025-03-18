@@ -40,6 +40,14 @@ Yet another introduction to data analytics with R.
 
 How to create informative visualizations, streamline report generation, and develop interactive websites, without the need to knnow R or complex math.
 
+10. R for Fledglings, by Therese M. Donovan, Michelle Brown, Jonathan E. Katz: https://www.uvm.edu/~tdonovan/RforFledglings/
+
+This is an introductory book about R, written by 3 ecologists. A "fledgling" is, according to Cambridge Dictionary, "a young bird that has grown feathers and is learning to fly", or a woed to describe a "new and not experienced" person.
+
+11. STAT 545: Data wrangling, exploration, and analysis with R, by Jenny Bryan: https://stat545.com/
+
+A book about everything that comes up during data analysis except for statistical modelling and inference. Topics inculde version control, data wrangling, function writing, graphics, package development, automation. Last commit to the repo https://github.com/rstudio-education/stat545 was in 2020.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -111,3 +119,11 @@ A book for experienced Shiny users you want to learn more about the underlying w
 12. Psychometrics in Exercises using R and RStudio: Textbook and data resource, by Anna Brown: https://bookdown.org/annabrown/psychometricsR/
 
 A textbook book on Psychometric techniques using R, with exercises based on real data (that can be dowloaded from https://annabrown.name/psychometricsR/).
+
+13. RMarkdown for Scientists, by Nicholas Tierney: https://rmd4sci.njtierney.com/
+
+A short book on R Markdown, aimed for scientists, maintained at https://github.com/njtierney/rmd4sci.
+
+14. RAP Companion, by Matthew Gregory, Matthew Upson: https://ukgovdatascience.github.io/rap_companion/
+
+A short book about RAP (Reproducible Analytical Pipelines) in R. Useful, but unmaintained.
