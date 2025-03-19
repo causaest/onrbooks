@@ -48,6 +48,10 @@ This is an introductory book about R, written by 3 ecologists. A "fledgling" is,
 
 A book about everything that comes up during data analysis except for statistical modelling and inference. Topics inculde version control, data wrangling, function writing, graphics, package development, automation. Last commit to the repo https://github.com/rstudio-education/stat545 was in 2020.
 
+12. T32 Working with Data Training, by Jean-Paul Courneya and Amy Yarnell: https://bookdown.org/amy_yarnell/T32-book/
+
+A nice and short book about best practices for data management with R, reproducible reports, and a bit of Shiny. Last updated in 2021.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -127,3 +131,15 @@ A short book on R Markdown, aimed for scientists, maintained at https://github.c
 14. RAP Companion, by Matthew Gregory, Matthew Upson: https://ukgovdatascience.github.io/rap_companion/
 
 A short book about RAP (Reproducible Analytical Pipelines) in R. Useful, but unmaintained.
+
+15. The Epidemiologist R Handbook, by Neale Batra et al.: https://epirhandbook.com/en/
+
+Handbook written by epidemiologists, for epidemiologists. It comes with an R package: https://github.com/appliedepi/epirhandbook.
+
+16. Geocomputation with R, by Robin Lovelace, Jakub Nowosad, Jannes Muenchow: https://r.geocompx.org/
+
+Specialised book on geographic data analysis, visualization and modeling. Well-written and actively developed.
+
+17. The Shiny AWS Book, by Matt Dancho: https://business-science.github.io/shiny-production-with-aws-book/
+
+Describes the process for deploying applications in the Cloud with Shiny and AWS. Last updated in 2020.
