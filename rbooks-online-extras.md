@@ -52,6 +52,14 @@ A book about everything that comes up during data analysis except for statistica
 
 A nice and short book about best practices for data management with R, reproducible reports, and a bit of Shiny. Last updated in 2021.
 
+13. The Art of Data Science, by Roger D. Peng, Elizabeth Matsui: https://bookdown.org/rdpeng/artofdatascience/
+
+A short book that outlines the general process of data analysis. There is still some activity on GitHub, but not much going on https://github.com/rdpeng/artofdatascience.
+
+14. An Introduction To R, by Stuart Hertzog: https://r.introbook.stuzog.com/
+
+Yet another intro to R, very short, last updated in 2018.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -63,6 +71,10 @@ A book focusing on plotly, with some tidyverse and shiny bits. The physican book
 01. Mastering Software Development in R, by Roger D. Peng, Sean Kross, Brooke Anderson: https://bookdown.org/rdpeng/RProgDA/
 
 The book covers R software development for building data science tools. GitHub repo at https://github.com/rdpeng/rprogdatascience.
+
+02. Agile Data Science with R, A workflow, by Edwin Thoen: https://edwinth.github.io/ADSwR/
+
+A very short book about agile approaches, with a little bit of R. Not updated since 2020: https://github.com/EdwinTh/ADSwR.
 
 ### Machine Learning
 
