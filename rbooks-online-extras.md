@@ -60,6 +60,14 @@ A short book that outlines the general process of data analysis. There is still 
 
 Yet another intro to R, very short, last updated in 2018.
 
+15. R for Graduate Students, by Y. Wendy Huynh: https://bookdown.org/yih_huynh/Guide-to-R-Book/
+
+A short intro to R resource, unmaintained since 2019.
+
+16. Introduction to Statistics and Data Science, by Kevin Hannay: https://faculty.nps.edu/rbassett/_book/
+
+A stats intro resource, unmaintained since 2019.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -85,6 +93,10 @@ An excellent book about feature engineering, sadly unmaintained.
 02. The caret Package, by Max Kuhn: https://topepo.github.io/caret/
 
 An extensive (and unmaintained) book about the (now obsolete) caret package.
+
+03. Machine Learning for Economics 2020/21: R labs, by Michela Cameletti: https://bookdown.org/michela_cameletti/rlabnotes_mlfe2021/
+
+Lecture notes to a "Machine learning for Economics" course, with some exercises.
 
 ### Specialized Applications
 
@@ -155,3 +167,11 @@ Specialised book on geographic data analysis, visualization and modeling. Well-w
 17. The Shiny AWS Book, by Matt Dancho: https://business-science.github.io/shiny-production-with-aws-book/
 
 Describes the process for deploying applications in the Cloud with Shiny and AWS. Last updated in 2020.
+
+18. Supplement to Shiny in Production, by Kelly O'Briant: https://kellobri.github.io/shiny-prod-book/
+
+Supplemental resources and content from the "Shiny in Production" Workshop delievered at rstudio::conf 2019.
+
+19. Machine Learning for Biostatistics Module 5, by Jaroslaw Harezlak, Armando Teixeira-Pinto: https://bookdown.org/tpinto_home/Beyond-Linearity/
+
+A short introduction to regression and splines.
