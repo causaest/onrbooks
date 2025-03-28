@@ -68,6 +68,14 @@ A short intro to R resource, unmaintained since 2019.
 
 A stats intro resource, unmaintained since 2019.
 
+17. Introduction to R, by Nana Kim: https://bookdown.org/nana/intror/
+
+A very short, unmaintained, introductory resource.
+
+18. Introduction to Computing With Data, by Gaston Sanchez: https://www.gastonsanchez.com/intro2cwd/
+
+A book covering many topics, but not in depth.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -175,3 +183,15 @@ Supplemental resources and content from the "Shiny in Production" Workshop delie
 19. Machine Learning for Biostatistics Module 5, by Jaroslaw Harezlak, Armando Teixeira-Pinto: https://bookdown.org/tpinto_home/Beyond-Linearity/
 
 A short introduction to regression and splines.
+
+20. Exploring Enterprise Databases with R: A Tidyverse Approach, by John David Smith, Sophie Yang, M. Edward (Ed) Borasky, Jim Tyhurst, Scott Came, Mary Anne Thygesen, Ian Frantz: https://smithjd.github.io/sql-pet/
+
+Exploring a realistic postgreSQL database with R via Docker, maintained at https://github.com/smithjd/sql-pet.
+
+21. Computational Historical Thinking, With Applications in R, by Lincoln A. Mullen: https://dh-r.lincolnmullen.com/
+
+Incomplete and probably long abandoned.
+
+22. Building Shiny Apps the BOAST Way, A How To and Official Style Guide, by Neil Hatfield, Robert Carey: https://educationshinyappteam.github.io/Style_Guide/
+
+A guide for building Shiny apps for the BOAST (Book Of Apps for Statistics Teaching) program (https://shinyapps.science.psu.edu/).
