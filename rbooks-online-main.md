@@ -6,7 +6,7 @@ A short list of online R books I use often.
 
 01. R for Data Science (2nd Ed.), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund: https://r4ds.hadley.nz/
 
-I would call this book "R for Analytics" and I would recommend it to any R beginner. It has a rather distinct and pedagogical structure, starting with visualization and transformation of data. Then, it goes into data importing and tidying. Moreover, it's quite comprehensive and actively developed. The only issue is that it takes the reader directly into the tidyverse, so base R is only partially covered.
+I would recommend this book to any R beginner as the absolute "R for Analytics" resource. It has a rather distinct and pedagogical structure, starting with visualization and transformation of data. Then, it goes into data importing and tidying. Moreover, it's quite comprehensive and actively developed. The only issue is that it takes the reader directly into the tidyverse, so base R is only partially covered.
 
 02. An Introduction to R, by Alex Douglas, Deon Roos, Francesca Mancini, Ana Couto, and David Lusseau: https://intro2r.com/
 

@@ -76,6 +76,22 @@ A very short, unmaintained, introductory resource.
 
 A book covering many topics, but not in depth.
 
+19. Analytics Using R, by Margie Rosenberg: https://pubs.wsb.wisc.edu/academics/analytics-using-r-2019/
+
+Yet another short R intro book.
+
+20. An Introduction to R for Research, by Ramzi W. Nahhas: https://bookdown.org/rwnahhas/IntroToR/
+
+An introduction to R for use in research; the datasets used are not publicly available.
+
+21. R for Data Science (2e) - Solutions to Exercises, by Jabir Ghaffar, Davon Person, and Mine Çetinkaya-Rundel: https://mine-cetinkaya-rundel.github.io/r4ds-solutions/
+
+Solutions to exercises for the 2nd edition of "R for Data Science".
+
+22. R for Data Science: Exercise Solutions, by Jeffrey B. Arnold: https://jrnold.github.io/r4ds-exercise-solutions/
+
+Solutions to exercises for the 1st edition of "R for Data Science".
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
