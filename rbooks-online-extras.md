@@ -211,3 +211,11 @@ Incomplete and probably long abandoned.
 22. Building Shiny Apps the BOAST Way, A How To and Official Style Guide, by Neil Hatfield, Robert Carey: https://educationshinyappteam.github.io/Style_Guide/
 
 A guide for building Shiny apps for the BOAST (Book Of Apps for Statistics Teaching) program (https://shinyapps.science.psu.edu/).
+
+23. Spatial Statistics for Data Science: Theory and Practice with R, by Paula Moraga: https://www.paulamoraga.com/book-spatial/
+
+The book describes statistical methods, modeling approaches, and visualization techniques to analyze spatial data using R.
+
+24. Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny, by Paula Moraga: https://www.paulamoraga.com/book-geospatial/
+
+The book describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R.
