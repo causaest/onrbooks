@@ -219,3 +219,11 @@ The book describes statistical methods, modeling approaches, and visualization t
 24. Geospatial Health Data: Modeling and Visualization with R-INLA and Shiny, by Paula Moraga: https://www.paulamoraga.com/book-geospatial/
 
 The book describes spatial and spatio-temporal statistical methods and visualization techniques to analyze georeferenced health data in R.
+
+25. bookdown: Authoring Books and Technical Documents with R Markdown, by Yihui Xie: https://bookdown.org/yihui/bookdown/
+
+A guide to the bookdown package that introduces a workflow of writing books based on R Markdown. Written by the package author.
+
+26. Text Mining with R, by Julia Silge, David Robinson: https://www.tidytextmining.com/
+
+Text analysis in R based on the tidytext package. Great resource for a gentle introduction to NLP concepts, too. Maintained here: https://github.com/dgrtwo/tidy-text-mining.
