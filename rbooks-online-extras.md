@@ -108,6 +108,10 @@ The book covers R software development for building data science tools. GitHub r
 
 A very short book about agile approaches, with a little bit of R. Not updated since 2020: https://github.com/EdwinTh/ADSwR.
 
+03. R Programming for Data Science, by Roger D. Peng: https://bookdown.org/rdpeng/rprogdatascience/
+
+A very good R programming book, clearly written. Maintained here: https://github.com/rdpeng/rprogdatascience.
+
 ### Machine Learning
 
 01. Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn, Kjell Johnson: https://bookdown.org/max/FES/
@@ -227,3 +231,8 @@ A guide to the bookdown package that introduces a workflow of writing books base
 26. Text Mining with R, by Julia Silge, David Robinson: https://www.tidytextmining.com/
 
 Text analysis in R based on the tidytext package. Great resource for a gentle introduction to NLP concepts, too. Maintained here: https://github.com/dgrtwo/tidy-text-mining.
+
+27. blogdown: Creating Websites with R Markdown, by Yihui Xie, Amber Thomas, Alison Presmanes Hill
+https://bookdown.org/yihui/blogdown/
+
+A book about the R package blogdown, which allows to create websites using R Markdown and Hugo. Chapter 5 presents other popular options, such as Jekyll and rmarkdown's default site generator.
