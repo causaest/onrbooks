@@ -126,6 +126,10 @@ An extensive (and unmaintained) book about the (now obsolete) caret package.
 
 Lecture notes to a "Machine learning for Economics" course, with some exercises.
 
+04. Data Science Live Book, by Pablo Casas: https://livebook.datascienceheroes.com/
+
+A book that maily covers treatment of outliers and missing data, variable selection, model performance assessment. Last updated in Jan 2019.
+
 ### Specialized Applications
 
 01. Introduction to Econometrics with R, by Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer: https://www.econometrics-with-r.org/
@@ -236,3 +240,7 @@ Text analysis in R based on the tidytext package. Great resource for a gentle in
 https://bookdown.org/yihui/blogdown/
 
 A book about the R package blogdown, which allows to create websites using R Markdown and Hugo. Chapter 5 presents other popular options, such as Jekyll and rmarkdown's default site generator.
+
+28. Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R, by Paul Roback and Julie Legler: https://bookdown.org/roback/bookdown-BeyondMLR/
+
+A book covering what follows after simple linear regression: likelihood, Poisson regression, GLMs, logistic regression, multilevel models. Datasets available at https://github.com/proback/BeyondMLR. Last updated in Jan 2021.
