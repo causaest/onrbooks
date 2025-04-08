@@ -98,6 +98,10 @@ Solutions to exercises for the 1st edition of "R for Data Science".
 
 A book focusing on plotly, with some tidyverse and shiny bits. The physican book was published in early 2020 and since then, no updates were made.
 
+02. Data Visualization, A practical introduction, by Kieran Healy: https://socviz.co/
+
+A dataviz book based on ggplot2. Incomplete and not updated since 2018. It's been a good book when it was published.
+
 ### Advanced R Programming
 
 01. Mastering Software Development in R, by Roger D. Peng, Sean Kross, Brooke Anderson: https://bookdown.org/rdpeng/RProgDA/
@@ -111,6 +115,10 @@ A very short book about agile approaches, with a little bit of R. Not updated si
 03. R Programming for Data Science, by Roger D. Peng: https://bookdown.org/rdpeng/rprogdatascience/
 
 A very good R programming book, clearly written. Maintained here: https://github.com/rdpeng/rprogdatascience.
+
+04. Programming with R, by Rohit Goswami, Hugo Gruson, Isaac Jennings: https://swcarpentry.github.io/r-novice-inflammation/
+
+A short, recipe-style book, without much theory. Updated here: https://github.com/swcarpentry/r-novice-inflammation.
 
 ### Machine Learning
 
