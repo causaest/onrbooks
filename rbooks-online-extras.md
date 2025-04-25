@@ -92,6 +92,18 @@ Solutions to exercises for the 2nd edition of "R for Data Science".
 
 Solutions to exercises for the 1st edition of "R for Data Science".
 
+23. Exploratory Data Analysis with R, by Roger D. Peng: https://bookdown.org/rdpeng/exdata/
+
+A concise introduction to EDA with emphasis to graphics, and elements of clustering and dimensionality reduction.
+
+24. Introduction to Data Science: Data Wrangling and Visualization with R, by Rafael A. Irizarry: https://rafalab.dfci.harvard.edu/dsbook-part-1/
+
+Part 1 of Irizarry's Introduction to Data Science. What you'd expect from a data wrangling book, plus some bonus chapters about Linux/Bash and Git/GitHub.
+
+25. Introduction to Data Science: Statistics and Prediction Algorithms Through Case Studies, by Rafael A. Irizarry: https://rafalab.dfci.harvard.edu/dsbook-part-2/
+
+Part 2 of Irizarry's Introduction to Data Science. Basic stats, probability, inference, linear models, dimensionality reduction, and a nice last chapter about machine learning.
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
