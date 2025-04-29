@@ -132,6 +132,10 @@ A very good R programming book, clearly written. Maintained here: https://github
 
 A short, recipe-style book, without much theory. Updated here: https://github.com/swcarpentry/r-novice-inflammation.
 
+05. R for Reproducible Scientific Analysis, by Software Carpentry: https://swcarpentry.github.io/r-novice-gapminder/
+
+That's rather a course than a book. The goal is to teach novice programmers to write modular code and best practices for using R for data analysis.
+
 ### Machine Learning
 
 01. Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn, Kjell Johnson: https://bookdown.org/max/FES/
