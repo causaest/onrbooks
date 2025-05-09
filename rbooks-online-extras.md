@@ -104,6 +104,14 @@ Part 1 of Irizarry's Introduction to Data Science. What you'd expect from a data
 
 Part 2 of Irizarry's Introduction to Data Science. Basic stats, probability, inference, linear models, dimensionality reduction, and a nice last chapter about machine learning.
 
+26. Statistics: Data analysis and modelling, by Maarten Speekenbrink: https://mspeekenbrink.github.io/sdam-book/
+
+Long and very comprehensive theoretical stats book, without any code (there's an R companion book for that).
+
+27. An R companion to Statistics: data analysis and modelling, by Maarten Speekenbrink: https://mspeekenbrink.github.io/sdam-r-companion/
+
+As the title suggests, the R code for the book "Statistics: Data analysis and modelling"
+
 ### Data Visualization and Graphics
 
 01. Interactive web-based data visualization with R, plotly, and shiny, by Carson Sievert: https://plotly-r.com/
@@ -126,7 +134,7 @@ A very short book about agile approaches, with a little bit of R. Not updated si
 
 03. R Programming for Data Science, by Roger D. Peng: https://bookdown.org/rdpeng/rprogdatascience/
 
-A very good R programming book, clearly written. Maintained here: https://github.com/rdpeng/rprogdatascience.
+A very good R programming book, clearly written. Sold here: https://leanpub.com/rprogramming and maintained here: https://github.com/rdpeng/rprogdatascience.
 
 04. Programming with R, by Rohit Goswami, Hugo Gruson, Isaac Jennings: https://swcarpentry.github.io/r-novice-inflammation/
 
@@ -268,3 +276,11 @@ A book about the R package blogdown, which allows to create websites using R Mar
 28. Beyond Multiple Linear Regression: Applied Generalized Linear Models and Multilevel Models in R, by Paul Roback and Julie Legler: https://bookdown.org/roback/bookdown-BeyondMLR/
 
 A book covering what follows after simple linear regression: likelihood, Poisson regression, GLMs, logistic regression, multilevel models. Datasets available at https://github.com/proback/BeyondMLR. Last updated in Jan 2021.
+
+29. Graphical & Latent Variable Modeling, by Michael Clark: https://m-clark.github.io/sem/
+
+The book serves as the basis for a workshop on structural equation modeling. It's unmaintained and has math rendering issues.
+
+30. Mixed Models with R: Getting started with random effects, by Michael Clark: https://m-clark.github.io/mixed-models-with-R/
+
+A book based on the lme4 package.
