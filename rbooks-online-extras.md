@@ -110,7 +110,11 @@ Long and very comprehensive theoretical stats book, without any code (there's an
 
 27. An R companion to Statistics: data analysis and modelling, by Maarten Speekenbrink: https://mspeekenbrink.github.io/sdam-r-companion/
 
-As the title suggests, the R code for the book "Statistics: Data analysis and modelling"
+As the title suggests, the R code for the book "Statistics: Data analysis and modelling".
+
+28. Atomic R, Programming for Data, by David Dalpiaz: https://book.stat385.org/
+
+An R companion to the University course "Statistical Programming Methods" (https://stat385.org/). Limited and incomplete resource.
 
 ### Data Visualization and Graphics
 
@@ -161,6 +165,10 @@ Lecture notes to a "Machine learning for Economics" course, with some exercises.
 04. Data Science Live Book, by Pablo Casas: https://livebook.datascienceheroes.com/
 
 A book that maily covers treatment of outliers and missing data, variable selection, model performance assessment. Last updated in Jan 2019.
+
+05. Feature Engineering A-Z, by Emil Hvitfeldt: https://feaz-book.com/
+
+This book is written to be used as a reference guide to nearly all feature engineering methods you will encounter. Really comprehensive, and frequently updated at https://github.com/EmilHvitfeldt/feature-engineering-az.
 
 ### Specialized Applications
 
