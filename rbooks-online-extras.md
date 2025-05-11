@@ -170,6 +170,18 @@ A book that maily covers treatment of outliers and missing data, variable select
 
 This book is written to be used as a reference guide to nearly all feature engineering methods you will encounter. Really comprehensive, and frequently updated at https://github.com/EmilHvitfeldt/feature-engineering-az.
 
+06. ISLR tidymodels labs, by Emil Hvitfeldt: https://emilhvitfeldt.github.io/ISLR-tidymodels-labs
+
+A complement to the 2nd edition "An Introduction to Statistical Learning" book, using the tidymodels set of packages. Updated here: https://github.com/EmilHvitfeldt/ISLR-tidymodels-labs.
+
+07. Applied Machine Learning for Tabular Data, by Max Kuhn and Kjell Johnson: https://aml4td.org/
+
+A code-free practical guide to developing quality predictive models from tabular data. The book takes a holistic view of the predictive modeling process and focuses on a few areas that are usually left out, such as feature engineering methods and post-modeling activities. Updated at: https://github.com/aml4td/website/. There's also a dedicated book for exercises at: https://exercises.aml4td.org/.
+
+08. Tidymodels Computing Supplement, by Max Kuh: https://tidymodels.aml4td.org/
+
+A tidymodels companion to "Applied Machine Learning for Tabular Data".
+
 ### Specialized Applications
 
 01. Introduction to Econometrics with R, by Christoph Hanck, Martin Arnold, Alexander Gerber, Martin Schmelzer: https://www.econometrics-with-r.org/
@@ -292,3 +304,7 @@ The book serves as the basis for a workshop on structural equation modeling. It'
 30. Mixed Models with R: Getting started with random effects, by Michael Clark: https://m-clark.github.io/mixed-models-with-R/
 
 A book based on the lme4 package.
+
+31. Supervised Machine Learning for Text Analysis in R, by Emil Hvitfeldt and Julia Silge: https://smltar.com/
+
+A book focusing on supervised or predictive modeling for text using the tidymodels framework. It's split into Natural language features, Machine learning methods, and Deep learning methods. Updated here: https://github.com/EmilHvitfeldt/smltar.
